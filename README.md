@@ -25,3 +25,11 @@ OBS: Todos os componentes, exceto a placa, foram comprados na loja física CA AN
 
 ## Vídeo explicativo
 
+https://youtu.be/shonXI_z6LE
+
+## Alunos
+
+* Felipe Scholucha Martinez Roldan 
+* Laura Neri Thomaz da Silva
+* Lucas Greff Meneses
+* Vitor Hugo Almeida Couto
